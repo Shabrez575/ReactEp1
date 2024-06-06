@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+#child {
+  border: 2px solid red;
+  background-color: grey;
+  color: #66ea99;
+}
+
+#child3 {
+  border: 2px solid red;
+  background-color: grey;
+  color: #66ea99;
+}
+
+#child4 {
+  border: 2px solid red;
+  background-color: grey;
+  color: #66ea99;
+}
